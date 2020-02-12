@@ -1,0 +1,11 @@
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\bin\Debug\EntityCodeSecond.exe.config
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\bin\Debug\EntityCodeSecond.exe
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\bin\Debug\EntityCodeSecond.pdb
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\bin\Debug\EntityFramework.dll
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\bin\Debug\EntityFramework.SqlServer.dll
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\bin\Debug\EntityFramework.xml
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\bin\Debug\EntityFramework.SqlServer.xml
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\obj\Debug\EntityCodeSecond.csprojAssemblyReference.cache
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\obj\Debug\EntityCodeSecond.csproj.CopyComplete
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\obj\Debug\EntityCodeSecond.exe
+D:\Metanit\Entity FrameWork\EntityCodeSecond\EntityCodeSecond\obj\Debug\EntityCodeSecond.pdb
